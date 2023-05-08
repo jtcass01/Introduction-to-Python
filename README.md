@@ -29,4 +29,4 @@
 
 Jacob Taylor Cassady - jacobtaylorcassady@outlook.com
 
-Project Link: [https://github.com/jtcass01/DigiCam](https://github.com/jtcass01/StepperMotor)
+Project Link: [https://github.com/jtcass01/Introduction-to-Python](https://github.com/jtcass01/Introduction-to-Python)
