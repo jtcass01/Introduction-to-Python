@@ -1,9 +1,7 @@
-#message=input("Tell me your name: ")
-message = "Kyongchan"
+message=input("Tell me your name: ")
 print("Hello, " + message + "!")
 
-#age = input("How old are you? ")
-age = 15
+age = input("How old are you? ")
 print("age", age)
 age = int(age)     # Cast age to an integer
 new_age = age - 1
