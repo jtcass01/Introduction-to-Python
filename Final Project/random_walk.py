@@ -37,7 +37,7 @@ class RandomWalk():
             self.x_values.append(next_x)
             self.y_values.append(next_y)
 
-rw = RandomWalk()
+rw = RandomWalk(300)
 rw.fill_walk()
 # Plot the middle values
 plt.scatter(rw.x_values, rw.y_values, c=rw.y_values, 
